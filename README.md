@@ -14,4 +14,8 @@ jiu1
 jiu2
 jiu3
 dev 111
-wo bu xiang yibo
+
+2 hao wo bu xiang yibo
+
+1 hao wo lai jia yibo
+
